@@ -2,7 +2,7 @@
 
 ##### Scripts Python desenvolvidos para avaliação.
 
-##### **Script 1.** 
+### **Script 1.** 
 
 Conceito: script para retornar o primeiro valor não repetido de uma string. 
 
@@ -22,7 +22,7 @@ Conceito: script para retornar o primeiro valor não repetido de uma string.
     - input -> 'engenharia de dados'
     - output -> 'g'
 
-##### **Script 2.** 
+### **Script 2.** 
 
 Conceito: ler um arquivo '.csv' da Web e retornar a média da coluna *petal_length* por espécie da base Iris. 
 
