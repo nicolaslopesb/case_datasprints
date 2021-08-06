@@ -1,8 +1,8 @@
-# case_datasprints
+# Case DataSprints - Health Lake.
 
-Scripts Python desenvolvidos para avaliação na DataSprints - Healthlake.
+###### Scripts Python desenvolvidos para avaliação.
 
-Script 1. 
+**Script 1.** 
 
   Conceito: script para retornar o primeiro valor não repetido de uma string. 
 
@@ -25,9 +25,9 @@ Como executar:
  Seguem os exemplos de inputs e outputs do script. 
 
 
-Script 2. 
+**Script 2.** 
 
-  Conceito: Ler um arquivo '.csv' da Web e retornar a média da coluna 'petal_length' por espécie da base Iris. 
+  Conceito: Ler um arquivo '.csv' da Web e retornar a média da coluna *petal_length* por espécie da base Iris. 
   
 Lógica do programa: 
 
