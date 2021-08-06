@@ -16,11 +16,11 @@ Lógica do programa:
 
 Como executar: 
 
-  # Exemplo:
-  # input -> 'teste'
-  # output -> 's'
-  # input -> 'engenharia de dados'
-  # output -> 'g'
+  Exemplo:
+  input -> 'teste'
+  output -> 's'
+  input -> 'engenharia de dados'
+  output -> 'g'
   
  Seguem os exemplos de inputs e outputs do script. 
 
