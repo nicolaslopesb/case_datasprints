@@ -22,9 +22,6 @@
     - input -> 'engenharia de dados'
     - output -> 'g'
 
-   Seguem os exemplos de inputs e outputs do script. 
-
-
 ##### **Script 2.** 
 
     Conceito: Ler um arquivo '.csv' da Web e retornar a média da coluna *petal_length* por espécie da base Iris. 
