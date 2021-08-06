@@ -8,11 +8,11 @@
 
 ###### Lógica do programa: 
 
-  Parte 1. Leitura da string. 
+  - Parte 1. Leitura da string. 
 
-  Parte 2. Função que recebe a string em formato de lista e que é retornado o primeiro valor utilizando list comprehension. 
+  - Parte 2. Função que recebe a string em formato de lista e que é retornado o primeiro valor utilizando list comprehension. 
 
-  Parte 3. Print do primeiro valor ou tratativa de erro. 
+  - Parte 3. Print do primeiro valor ou tratativa de erro. 
 
 ###### Como executar: 
 
@@ -31,15 +31,15 @@
   
 ###### Lógica do programa: 
 
-  Parte 1. Realização dos imports das bibliotecas utilizadas: pandas e matplotlib.
+  - Parte 1. Realização dos imports das bibliotecas utilizadas: pandas e matplotlib.
   
-  Parte 2. Leitura do arquivo '.csv' capturando apenas as colunas necessárias para análise. 
+  - Parte 2. Leitura do arquivo '.csv' capturando apenas as colunas necessárias para análise. 
   
-  Parte 3. Realização da consulta SQL com ajuda do GroupBy e Mean. 
+  - Parte 3. Realização da consulta SQL com ajuda do GroupBy e Mean. 
   
-  Parte 4. Criação dos eixos X e Y para plotar o gráfico em barras (escolhido neste caso).
+  - Parte 4. Criação dos eixos X e Y para plotar o gráfico em barras (escolhido neste caso).
   
-  Parte 5. Formatação do plot e print. 
+  - Parte 5. Formatação do plot e print. 
   
 ###### Como executar: 
 
