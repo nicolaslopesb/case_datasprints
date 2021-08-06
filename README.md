@@ -4,7 +4,7 @@
 
 ### **Script 1.** 
 
-Conceito: script para retornar o primeiro valor não repetido de uma string. 
+first_element.py: script para retornar o primeiro valor não repetido de uma string. 
 
   ###### Lógica do programa: 
 
@@ -26,7 +26,7 @@ Conceito: script para retornar o primeiro valor não repetido de uma string.
 
 ### **Script 2.** 
 
-Conceito: ler um arquivo '.csv' da Web e retornar a média da coluna *petal_length* por espécie da base Iris. 
+avg_length.py: ler um arquivo '.csv' da Web e retornar a média da coluna *petal_length* por espécie da base Iris. 
 
   ###### Lógica do programa: 
 
