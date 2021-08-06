@@ -42,4 +42,4 @@ Conceito: ler um arquivo '.csv' da Web e retornar a média da coluna *petal_leng
 
   ###### Como executar: 
 
-    Para executar basta apenas executar o script, não é necessário nenhum tipo de input.
+    Basta apenas executar o script, não é necessário nenhum tipo de input.
