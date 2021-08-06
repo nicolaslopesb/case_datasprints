@@ -24,7 +24,7 @@ Conceito: script para retornar o primeiro valor não repetido de uma string.
 
 ##### **Script 2.** 
 
-Conceito: Ler um arquivo '.csv' da Web e retornar a média da coluna *petal_length* por espécie da base Iris. 
+Conceito: ler um arquivo '.csv' da Web e retornar a média da coluna *petal_length* por espécie da base Iris. 
 
   ###### Lógica do programa: 
 
